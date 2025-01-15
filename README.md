@@ -2,6 +2,16 @@
 
 FFmpeg for Android, iOS and tvOS. 
 
+
+To add into your project:
+
+```
+implementation 'com.github.Kashyaprrathod29:mobile-ffmpeg:7a9c62f556'
+```
+
+Jitpack dependency required
+
+
 Not maintained anymore as explained in [What’s next for MobileFFmpeg?](https://tanersener.medium.com/whats-next-for-mobileffmpeg-44d2fac6f09b). Superseded by [FFmpegKit](https://github.com/tanersener/ffmpeg-kit).
 
 <img src="https://github.com/tanersener/mobile-ffmpeg/blob/master/docs/assets/mobile-ffmpeg-logo-v7.png" width="320">
